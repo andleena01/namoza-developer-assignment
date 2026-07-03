@@ -1,4 +1,3 @@
-Updated GitHub Pages deployment.
 # Namoza Developer Assignment
 
 ## Project Overview
